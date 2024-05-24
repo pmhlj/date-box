@@ -17,4 +17,4 @@ jobs:
           TYPE: DAY
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GIST_ID: 515b73f23e63497e9376476e223ed4d4
-          RECORDS: "2024-07-26 _ 끝 | 2024-12-31 올해의 마지막일"
+          RECORDS: "2024-07-26 _ 끝 | 2024-12-31 _ 올해의 마지막일"
